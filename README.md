@@ -34,7 +34,7 @@ example:
     X:\convert\source\0168_nanaironouta_uemurakatsuki   (FOLDER)
     
 
-- 4、after you finish download things, you should run
+- 4、run
 
 
     com.ocwvar.tools.Main                    
