@@ -14,14 +14,13 @@ AND SDVX 5 MUSIC DATA
 - 1、Folder structure you should make one like this:
 
 
-    X:\convert
-              \result   (MUST BE EMPTY BEFORE YOU RUN)
-              \source   (MUST BE EMPTY BEFORE YOU RUN)
-              \tools
-                    \2dx    (PUT YOUR "2dxBuild.exe" HERE)
-                    \ff     (PUT YOUR "ffmpeg.exe" HERE)
-                    \wav    (PUT YOUR ALL "2dxWavConvert'dll and exe" HERE )
-                    
+        X:\convert
+                \result   (MUST BE EMPTY BEFORE YOU RUN)
+                \source   (MUST BE EMPTY BEFORE YOU RUN)
+                \tools
+                      \2dx    (PUT YOUR "2dxBuild.exe" HERE)
+                      \ff     (PUT YOUR "ffmpeg.exe" HERE)
+                      \wav    (PUT YOUR ALL "2dxWavConvert'dll and exe" HERE )
 
 
 - 2、Put your **"sdvx5\content\data\others\music_db.xml"** To **"\source"**
