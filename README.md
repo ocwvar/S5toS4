@@ -40,7 +40,7 @@ example:
 
 with a **folder path as arg[0]**. (maybe i will upload a JAR)
 
-- 5、Get all folders from **"\result"** to your sdvx4 content's **ifs data folder**
+- 5、Move all folders from **"\result"** to your sdvx4 content's **ifs data folder**
 
 example:
 
