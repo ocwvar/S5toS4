@@ -36,8 +36,7 @@ example:
 
 - 4、run
 
-
-    com.ocwvar.tools.Main                    
+        com.ocwvar.tools.Main                    
 
 with a **folder path as arg[0]**. (maybe i will upload a JAR)
 
